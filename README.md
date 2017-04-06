@@ -3,6 +3,10 @@
 A minimal Docker image that contains kubeadm.
 It is based on openSUSE:tumbleweed.
 
+## Status
+
+This is not ready yet !!!
+
 ## Usage
 
 1. Start the `kubelet` with something like
